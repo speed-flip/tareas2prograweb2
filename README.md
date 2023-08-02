@@ -1,6 +1,4 @@
-# Documentación del código JavaScript en formato Markdown
-
-A continuación, se presenta la documentación del código JavaScript de la Tarea Semana 2 de Programación. Se describen las variables, funciones y sus respectivas funcionalidades.
+## A continuación, se presenta la documentación del código JavaScript de la Tarea Semana 2 de Programación. Se describen las variables, funciones y sus respectivas funcionalidades.
 
 ## Variables
 
